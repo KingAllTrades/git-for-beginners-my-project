@@ -1,4 +1,4 @@
 Welcome to My Project!
 
-Author:MKU
+Author:MKU Khoirul
 Twitter: MKU
